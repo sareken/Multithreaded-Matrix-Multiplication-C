@@ -1,5 +1,3 @@
-// SARE EKEN
-// 22100011016
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
